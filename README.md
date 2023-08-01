@@ -5,6 +5,8 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tanvir+Hasan+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Engineer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
+<div align="center" style="border: px solid #000000;>
+
     <br/>
    <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
