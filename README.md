@@ -6,7 +6,6 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tanvir+Hasan+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Engineer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
    </div>
-   
 </div>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
