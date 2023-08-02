@@ -27,9 +27,12 @@
 - 📫 How to reach me **tanvirhasan.tanshen2019@gmail.com**
 
 - 📄 Know about my experiences <a href="https://tanvir-hasan-tanshen.netlify.app/" target="blank">Portfolio</a>
-<b></b>
+
+<b>
+	<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+</b>
+
 <div>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
