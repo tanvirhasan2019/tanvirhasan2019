@@ -7,8 +7,6 @@
     </div>
    </div>
    
------
-
 </div>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
