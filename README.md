@@ -48,7 +48,7 @@
   &copy; 2023 Md. Tanvir Hasan
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Credits</h3></b> 
+## © Credits</h3></b> 
 [Md. Tanvir Hasan](https://github.com/tanvirhasan2019)
 
 Last Edited on: 08/08/2023
