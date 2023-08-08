@@ -50,7 +50,7 @@
 
 ---
 
-Credits: [Shourya Sharma](https://github.com/tanvirhasan2019)
+Credits: [Md. Tanvir Hasan](https://github.com/tanvirhasan2019)
 
 Last Edited on: 08/08/2023
 </div>
