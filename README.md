@@ -42,7 +42,6 @@
       </div>
 </p>
 
-
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Md. Tanvir Hasan
