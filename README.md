@@ -41,4 +41,16 @@
 	         <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 </p>
+
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 Md. Tanvir Hasan
+</div>
+
+---
+
+Credits: [Shourya Sharma](https://github.com/tanvirhasan2019)
+
+Last Edited on: 08/08/2023
 </div>
