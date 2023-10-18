@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently Working on Full Stack Development.
 
-- 🤝 I’m available for Remote oppurtonities.
+- 🤝 I’m available for Remote/Hybrid/Onsite oppurtonities.
 
 - 🌱 I’m currently learning Devops & Ruby on Rails.
 
