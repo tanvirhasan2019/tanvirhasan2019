@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working in Nippon Cloud Co., Ltd (Tokyo, Japan).
 
-- 🌱 I’m currently Working on Full Stack Development.
+- 🌱 Currently Working on Full Stack Development.
 
 - 🤝 I’m available for Remote/Hybrid/Onsite oppurtonities.
 
-- 🌱 I’m currently learning Devops & Ruby on Rails.
+- 🌱 Learning Devops & Ruby on Rails.
 
 - 💬 Ask me about **Reactjs & Nodejs**
 
