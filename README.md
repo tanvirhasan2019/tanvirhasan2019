@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working in Nippon Cloud Co., Ltd (Tokyo, Japan).
 
-- 🌱 Currently Working on Full Stack Development.
+- 🌱 Working on Full Stack Application Development.
 
 - 🤝 I’m available for Remote/Hybrid/Onsite oppurtonities.
 
