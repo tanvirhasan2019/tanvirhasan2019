@@ -39,7 +39,7 @@
 		<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 	<a style="margin-left: 5px;" target="_blank" 
     href="https://tanvir-hasan-tanshen.netlify.app/">
-	         <img src="https://img.icons8.com/plasticine/0.5x/resume.png](https://icons.veryicon.com/png/o/miscellaneous/general-icon-library/resume-7.png" ></a>
+	         <img src="https://icons.veryicon.com/png/o/miscellaneous/general-icon-library/resume-7.png"></a>
       </div>
 </p>
 
