@@ -21,7 +21,7 @@
 
 - 🌱 Learning Devops & Ruby on Rails.
 
-- 💬 Ask me about **Reactjs & Nodejs**
+- 👨‍💻 Interested on **System design & development**
 
 - 📫 How to reach me **tanvirhasan.tanshen2019@gmail.com**
 
