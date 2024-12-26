@@ -47,8 +47,5 @@
   &copy; 2023 Md. Tanvir Hasan
 </div>
 
-## © Credits</h3></b> 
-[Md. Tanvir Hasan](https://github.com/tanvirhasan2019)
-
 Last Edited on: 26/10/2024
 </div>
