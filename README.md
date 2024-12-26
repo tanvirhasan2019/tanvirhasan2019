@@ -39,7 +39,7 @@
         <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube">
     </a>
    <a href="https://tanvir-hasan-tanshen.com" target="_blank">
-    <i class="fa-solid fa-briefcase"></i>
+       <img src="https://cdn-icons-png.flaticon.com/512/8698/8698873.png" alt="YouTube">
    </a>
 </div>
 
