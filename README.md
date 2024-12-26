@@ -1,8 +1,9 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
+
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+GitHub+Profile;I'm+Tanvir+Hasan;System+Engineer+%7C+Full-Stack+Developer;Open-Source+Contributor+%7C+Problem+Solver;Innovating+with+Technology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=System+Engineer;Based+in+Tokyo+Japan;Building+Efficient+&+Scalable Systems;Collaboration+&+Teamwork+Enthusiast;Deploy+systems,+performed+real-time+monitoring" alt="Typing SVG" />
 </div>
 
 ---
