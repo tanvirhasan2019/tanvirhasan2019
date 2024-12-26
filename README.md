@@ -38,9 +38,9 @@
     <a href="https://www.youtube.com/playlist?list=PLFRcSjcCh8K4Buy_Oze2qJdx91Jb6kGtX" target="_blank">
         <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube">
     </a>
-    <a href="https://tanvir-hasan-tanshen.netlify.app/" target="_blank">
-        <img src="https://img.icons8.com/doodle/40/000000/icons8-resume-16.png" alt="Resume">
-    </a>
+   <a href="https://tanvir-hasan-tanshen.netlify.app/" target="_blank">
+    <img src="https://tanvir-hasan-tanshen.com" alt="Portfolio">
+   </a>
 </div>
 
 ---
