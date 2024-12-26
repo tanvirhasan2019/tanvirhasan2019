@@ -47,5 +47,4 @@
   &copy; 2023 Md. Tanvir Hasan
 </div>
 
-Last Edited on: 26/10/2024
 </div>
