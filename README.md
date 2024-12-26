@@ -13,19 +13,18 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at Nippon Cloud Co., Ltd (Tokyo, Japan).
+- 🔭 Currently working at Nippon Cloud Co., Ltd as a system engineer (Ueno, Tokyo).
+- 🛠️ System Development (4+ Years) : Skilled in designing, implementing, and deploying end-to-end software solutions.
+- ⚙️ Architectural Expertise : Proficient in Model-View-Controller (MVC), 3-Tier Architecture, and Microservices design patterns.
+- 🛢  Database : Experienced in database design, normalization, and implementation using SQL and MongoDB.
+- 📊 Project Management : Ensures on-time delivery with an emphasis on quality and efficient resource utilization.
+- 🌱 Deployment & Monitoring : Deploy systems, performed real-time monitoring, analyzed logs, and optimized performance.
+- ☁  Cloud: AWS, Digital Ocean.
 
-- 🌱 Working on Full Stack Application Development.
-
-- 🤝 I’m available for Remote/Hybrid/Onsite oppurtonities.
-
-- 🌱 Learning Devops & Ruby on Rails.
-
-- 👨‍💻 Interested on **System design & development***
 
 - 📫 How to reach me **tanvir.tokyojp@gmail.com**
 
-- 📄 Know about my experiences <a href="https://tanvir-hasan-tanshen.netlify.app/" target="blank">Portfolio</a>
+- 📄 Know about my experiences <a href="https://tanvir-hasan-tanshen.com/" target="blank">Portfolio</a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3></b> 
 
@@ -51,5 +50,5 @@
 ## © Credits</h3></b> 
 [Md. Tanvir Hasan](https://github.com/tanvirhasan2019)
 
-Last Edited on: 26/10/2023
+Last Edited on: 26/10/2024
 </div>
