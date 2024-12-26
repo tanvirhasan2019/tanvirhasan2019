@@ -1,9 +1,9 @@
 <div align="center">
-    <img width="100%" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=System+Engineer;Based+in+Tokyo+Japan;Building+Efficient+%26+Scalable+Systems;Collaboration+%26+Teamwork+Enthusiast;Deploy+systems,+performed+real-time+monitoring" alt="Typing SVG" />
+    <img width="100%"  src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=System+Engineer;Based+in+Tokyo+Japan;Building+Efficient+%26+Scalable+Systems;Collaboration+%26+Teamwork+Enthusiast;Deploy+systems,+performed+real-time+monitoring" alt="Typing SVG" />
 </div>
 
 
