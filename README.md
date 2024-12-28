@@ -37,7 +37,7 @@
     <a href="https://github.com/tanvirhasan2019" target="_blank">
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
     </a>
-    <a href="https://www.youtube.com/playlist?list=PLFRcSjcCh8K4Buy_Oze2qJdx91Jb6kGtX" target="_blank">
+    <a href="https://www.youtube.com/@project-show-404" target="_blank">
         <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube">
     </a>
    <a href="https://tanvir-hasan-tanshen.com" target="_blank">
