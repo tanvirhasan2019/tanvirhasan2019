@@ -24,7 +24,7 @@
 - ☁️ **Cloud Expertise**: **AWS** and **Digital Ocean** for scalable deployments.  
 
 📫 **Get in touch**: [tanvir.tokyojp@gmail.com](mailto:tanvir.tokyojp@gmail.com)  
-📄 **Portfolio**: [View My Work](https://tanvir-hasan-tanshen.com/)  
+📄 **Portfolio**: [view](https://tanvir-hasan-tanshen.com/)  
 
 ---
 
