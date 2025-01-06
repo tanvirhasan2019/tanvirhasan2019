@@ -23,7 +23,7 @@
 - 🌱 **Deployment & Monitoring**: Experience in deploying systems, real-time monitoring, analyzing logs, and performance optimization.  
 - ☁️ **Cloud Expertise**: **AWS** and **Digital Ocean** for scalable deployments.  
 
-📫 **Get in Touch**: [tanvir.tokyojp@gmail.com](mailto:tanvir.tokyojp@gmail.com)  
+📫 **Get in touch**: [tanvir.tokyojp@gmail.com](mailto:tanvir.tokyojp@gmail.com)  
 📄 **Portfolio**: [View My Work](https://tanvir-hasan-tanshen.com/)  
 
 ---
