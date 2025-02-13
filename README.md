@@ -11,10 +11,6 @@
 
 ## 👋 About Me
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 - 🔭 **Current Role**: System Engineer at **Nippon Cloud Co., Ltd** (Tokyo, Japan).  
 - 🛠️ **Experience**: Over 4 years of expertise in **designing**, **developing**, and **deploying** software solutions.  
 - ⚙️ **Architecture**: Skilled in **Model-View-Controller (MVC)**, **3-Tier Architecture**, and **Microservices**.  
