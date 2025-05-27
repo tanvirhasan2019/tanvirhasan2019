@@ -146,8 +146,6 @@ I am a dedicated **System Engineer** at **Nippon Cloud Co., Ltd.** in Tokyo, Jap
     <h3>💼 Open for Collaboration & Opportunities</h3>
     <p>📧 <strong>Email</strong>: tanvir.tokyojp@gmail.com</p>
     <p>🌐 <strong>Portfolio</strong>: <a href="https://tanvir-hasan-tanshen.com/">tanvir-hasan-tanshen.com</a></p>
-    <br/>
     <p><em>Thank you for visiting my profile! Let's build something amazing together.</em></p>
-    <br/>
     <p>&copy; 2025 Tanvir Hasan | System Engineer | Tokyo, Japan</p>
 </div>
