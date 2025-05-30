@@ -15,7 +15,6 @@ I am a dedicated **System Engineer** at **Nippon Cloud Co., Ltd.** in Tokyo, Jap
 - 🔭 **Current Position**: System Engineer at Nippon Cloud Co., Ltd. (Sep 2023 - Present)
 - 🎯 **Specialization**: 3-Tier Architecture, Microservices, AI Chatbot Development
 - ☁️ **Cloud Expertise**: AWS services, containerization, and scalable infrastructure
-- 📊 **Impact**: Led projects supporting 100K+ active users
 - 🎓 **Education**: B.Sc. in Computer Science and Engineering from Ahsanullah University of Science and Technology
 
 ---
