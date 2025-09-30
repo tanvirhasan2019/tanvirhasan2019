@@ -113,7 +113,7 @@ I am a dedicated **System Engineer** at **Nippon Cloud Co., Ltd.** in Tokyo, Jap
 
 **Bachelor of Science in Computer Science and Engineering**  
 *Ahsanullah University of Science and Technology* | March 2017 - October 2021  
-**CGPA**: 3.159/4.00
+**CGPA**: 3.16/4.00
 
 **Higher Secondary Certificate**  
 *Cumilla Victoria Government College* | January 2014 - January 2016  
